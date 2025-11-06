@@ -61,6 +61,10 @@ I’m committed to continuous learning and delivering data-driven solutions that
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-4CAF50?style=for-the-badge&logo=github&logoColor=white" />
 </p>
+<img src="https://img.icons8.com/color/48/data-configuration.png" alt="Power Pivot" width="48" style="max-width:100%;" />
+<img src="https://img.icons8.com/color/48/sql.png" alt="SQL" width="48" style="max-width:100%;" />
+
+
 
 
 ---
