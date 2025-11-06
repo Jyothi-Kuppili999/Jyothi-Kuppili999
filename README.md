@@ -61,8 +61,7 @@ I’m committed to continuous learning and delivering data-driven solutions that
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-4CAF50?style=for-the-badge&logo=github&logoColor=white" />
 </p>
-<img src="https://img.icons8.com/color/48/data-configuration.png" alt="Power Pivot" width="48" style="max-width:100%;" />
-<img src="https://img.icons8.com/color/48/sql.png" alt="SQL" width="48" style="max-width:100%;" />
+
 
 
 
@@ -81,7 +80,8 @@ I’m committed to continuous learning and delivering data-driven solutions that
 <img src="https://img.icons8.com/color/48/github--v1.png"/>
 <img src="https://img.icons8.com/color/48/git.png"/>
 <img src="https://img.icons8.com/color/48/data-configuration.png" alt="Power Pivot" width="48" style="max-width:100%;" />
-
+<img src="https://img.icons8.com/color/48/data-configuration.png" alt="Power Pivot" width="48" style="max-width:100%;" />
+<img src="https://img.icons8.com/color/48/sql.png" alt="SQL" width="48" style="max-width:100%;" />
 
 
 </p>
@@ -104,8 +104,7 @@ I’m committed to continuous learning and delivering data-driven solutions that
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jyothi-Kuppili999&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyothi-Kuppili999&layout=compact&theme=tokyonight" height="160"/>
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jyothi-Kuppili999&theme=tokyonight" alt="GitHub Streak"/>
