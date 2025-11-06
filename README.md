@@ -71,8 +71,8 @@ I’m committed to continuous learning and delivering data-driven solutions that
 <img src="https://img.icons8.com/color/48/mysql-logo.png"/>
 <img src="https://img.icons8.com/color/48/github--v1.png"/>
 <img src="https://img.icons8.com/color/48/git.png"/>
-<img src="https://img.icons8.com/color/48/openai.png"/>
-<img src="https://www.svgrepo.com/show/306500/openai.svg" alt="OpenAI Logo" width="100" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/02/OpenAI_Logo_white.svg" alt="OpenAI Logo" width="50" />
+
 
 
 
