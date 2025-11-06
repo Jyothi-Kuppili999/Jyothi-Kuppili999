@@ -47,8 +47,7 @@ I’m committed to continuous learning and delivering data-driven solutions that
 
 ---
 
-## 💻 My Skills <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="35" />
-
+## 💻 My Skills 
 <p align="center">
   <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
@@ -59,7 +58,8 @@ I’m committed to continuous learning and delivering data-driven solutions that
   <img src="https://img.shields.io/badge/Data%20Cleaning-008080?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 
 
@@ -68,7 +68,7 @@ I’m committed to continuous learning and delivering data-driven solutions that
 
 ---
 
-## ⚙️ Tools I Use <img src="https://cdn-icons-png.flaticon.com/512/2920/2920244.png" width="25"/>
+## ⚙️ Tools I Use 
 
 <p align="center">
 <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png"/>
@@ -81,6 +81,7 @@ I’m committed to continuous learning and delivering data-driven solutions that
 <img src="https://img.icons8.com/color/48/git.png"/>
 <img src="https://img.icons8.com/color/48/data-configuration.png" alt="Power Pivot" width="48" style="max-width:100%;" />
 <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="SQL Server" width="48" style="max-width:100%;" />
+
 
 
 
