@@ -71,7 +71,8 @@ I’m committed to continuous learning and delivering data-driven solutions that
 <img src="https://img.icons8.com/color/48/mysql-logo.png"/>
 <img src="https://img.icons8.com/color/48/github--v1.png"/>
 <img src="https://img.icons8.com/color/48/git.png"/>
-<img src="https://logos-world.net/wp-content/uploads/2021/10/OpenAI-Logo.png" alt="OpenAI Logo" width="100" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" alt="OpenAI Logo" width="100" />
+
 </p>
 
 ---
@@ -86,8 +87,8 @@ I’m committed to continuous learning and delivering data-driven solutions that
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40" alt="animated data chart" />
- GitHub Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40" alt="animated data chart" /> GitHub Stats
+ 
 
 
 <p align="center">
