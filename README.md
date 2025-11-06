@@ -1,6 +1,7 @@
 <!-- Typing SVG Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=6C63FF&center=true&vCenter=true&width=435&lines=Hi%2C+Everyone!+👋;I'm%2C+passionate+Data+Enthusiast%2C;Actively%2C+developing+skills+in%2C;Excel%5C+%7C+Power+BI+%7C+SQL+%7C+Python+7%c" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi%2C+Everyone!+👋;I'm+a+passionate+Data+Enthusiast;Actively+developing+skills+in;Excel+%7C+Power+BI+%7C+SQL+%7C+Python" alt="Typing SVG" />
+
 </h1>
 
 <p align="center">
@@ -20,7 +21,9 @@ Data enthusiast exploring real-world solutions through <b>Excel automation</b> a
 
 ## 👩‍💻 About Me <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/icon-code.gif" width="25"/>
 
-<video loading="lazy" muted="muted" playsinline="" src="https://cdnl.iconscout.com/lottie/premium/thumb/girl-working-on-laptop-animation-gif-download-4445871.mp4" type="video/mp4" autoplay="autoplay" loop="loop"></video>
+<img align="right" alt="Girl working on laptop with plants background" width="300"
+     src="https://storage.googleapis.com/dmuqgsiwrebuce/typing-animation-gif-maker.html" />
+
 
 I’m passionate about turning raw data into meaningful business insights.  
 With strong expertise in **Microsoft 365** and growing proficiency in modern data tools like **Power BI, SQL, and Python**,  
