@@ -59,8 +59,8 @@ I’m committed to continuous learning and delivering data-driven solutions that
   <img src="https://img.shields.io/badge/Data%20Cleaning-008080?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-4CAF50?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+
+
 
 
 
@@ -80,10 +80,7 @@ I’m committed to continuous learning and delivering data-driven solutions that
 <img src="https://img.icons8.com/color/48/github--v1.png"/>
 <img src="https://img.icons8.com/color/48/git.png"/>
 <img src="https://img.icons8.com/color/48/data-configuration.png" alt="Power Pivot" width="48" style="max-width:100%;" />
-<img src="https://img.icons8.com/color/48/sql.png" 
-     alt="SQL" 
-     width="48" 
-     style="background-color:#4CAF50; padding:5px; border-radius:10px; box-shadow:0 0 6px rgba(76,175,80,0.5);" />
+<img src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="SQL Server" width="48" style="max-width:100%;" />
 
 
 
