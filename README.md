@@ -86,11 +86,12 @@ I’m committed to continuous learning and delivering data-driven solutions that
 
 ---
 
-## 📊 GitHub Stats <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWUyaTRvbjY1c3phZWhnN2dnOHB6M3J5eHJsdm12ZjR2NGlnbWJkcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YnkMcHgNIMW4Yfmjxr/giphy.gif" width="40" alt="animated bar chart"/>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40" alt="animated data chart" />
+ GitHub Stats
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jyothi Patnaik&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jyothi-Kuppili999&show_icons=true&theme=tokyonight" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyothi-Kuppili999&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
