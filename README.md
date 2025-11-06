@@ -71,7 +71,7 @@ I’m committed to continuous learning and delivering data-driven solutions that
 <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png"/>
 <img src="https://img.icons8.com/color/48/microsoft-word-2019--v1.png"/>
 <img src="https://img.icons8.com/color/48/power-bi.png"/>
-<img src="https://github.com/Jyothi-Kuppili999/Jyothi-Kuppili999/blob/test/Openai.png style="max-width:100%;" />
+<img src="https://github.com/Jyothi-Kuppili999/Jyothi-Kuppili999/blob/test/Openai.png?raw=true" width="48" style="max-width:100%;" alt="OpenAI Logo" />
 <img src="https://img.icons8.com/color/48/python--v1.png"/>
 <img src="https://img.icons8.com/color/48/mysql-logo.png"/>
 <img src="https://img.icons8.com/color/48/github--v1.png"/>
