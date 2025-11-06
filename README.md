@@ -47,7 +47,8 @@ I’m committed to continuous learning and delivering data-driven solutions that
 
 ---
 
-## 💻 My Skills <img src="https://media.giphy.com/media/ZZrXb4hVfZOK4/giphy.gif" width="35" alt="Gear animation"/>
+## 💻 My Skills <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="35" alt="Skills animation"/>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
