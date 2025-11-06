@@ -1,5 +1,5 @@
 ### Hi, I'm Jyothi Patnaik 🌼
-##### A curious mind uncovering stories hidden in data. With Excel, SQL, and Power BI, I bring clarity to real-world decisions.
+#### A curious mind uncovering stories hidden in data. With Excel, SQL, and Power BI, I bring clarity to real-world decisions.
 
 <!-- Typing SVG Header -->
 <h1 align="center">
@@ -92,7 +92,7 @@ I’m committed to continuous learning and delivering data-driven solutions that
 ## 📬 Connect with Me <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/icon-contact.gif" width="25"/>
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=⭐+Reach+me+via!;Linkedin+GitHub+or+Email;Let's+stay+Connected!!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=⭐+Reach+me+via;Linkedin+GitHub+or+Email;Let's+stay+Connected!!" alt="Typing SVG" />
 </h2>
 
 <p align="center">
