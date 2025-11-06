@@ -91,6 +91,10 @@ I’m committed to continuous learning and delivering data-driven solutions that
 
 ## 📬 Connect with Me <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/icon-contact.gif" width="25"/>
 
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=⭐+Reach+me+via!;Linkedin+GitHub+or+Email;Let's+stay+Connected!!" alt="Typing SVG" />
+</h2>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/jyothi-patnaik-k-310551226" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Jyothi-Kuppili999" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
