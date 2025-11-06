@@ -21,8 +21,9 @@ Data enthusiast exploring real-world solutions through <b>Excel automation</b> a
 
 ## 👩‍💻 About Me <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/icon-code.gif" width="25"/>
 
-<img align="right" alt="Girl working on laptop with plants background" width="300"
-     src="https://storage.googleapis.com/dmuqgsiwrebuce/typing-animation-gif-maker.html" />
+<img align="right" alt="Girl working on laptop with plants in background" width="300" 
+     src="https://cdnl.iconscout.com/lottie/premium/thumb/girl-working-on-laptop-animation-gif-download-4445871.gif" />
+
 
 
 I’m passionate about turning raw data into meaningful business insights.  
