@@ -22,7 +22,7 @@ Data enthusiast exploring real-world solutions through <b>Excel </b>,<b>SQL </b>
 
 ---
 
-## 👩‍💻 About Me <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/icon-code.gif" width="25"/>
+## 👩‍💻 About Me 
 
 <img align="right" alt="Girl working on laptop with plants in background" width="300" 
      src="https://cdnl.iconscout.com/lottie/premium/thumb/girl-working-on-laptop-animation-gif-download-4445871.gif" />
@@ -37,7 +37,7 @@ I’m committed to continuous learning and delivering data-driven solutions that
 
 ---
 
-## 🚀 My Mission <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="35"/>
+## 🚀 My Mission 
 
 - To simplify complex data for easy interpretation.  
 - To fulfill my dream of becoming a proficient Data Analyst.  
@@ -47,7 +47,8 @@ I’m committed to continuous learning and delivering data-driven solutions that
 
 ---
 
-## 💻 My Skills 
+## 💻 My Skills <img src="https://media.giphy.com/media/ZZrXb4hVfZOK4/giphy.gif" width="35" alt="Gear animation"/>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
