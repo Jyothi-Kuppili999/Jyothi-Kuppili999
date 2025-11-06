@@ -59,7 +59,7 @@ I’m committed to continuous learning and delivering data-driven solutions that
   <img src="https://img.shields.io/badge/Data%20Cleaning-008080?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 
@@ -71,7 +71,10 @@ I’m committed to continuous learning and delivering data-driven solutions that
 <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png"/>
 <img src="https://img.icons8.com/color/48/microsoft-word-2019--v1.png"/>
 <img src="https://img.icons8.com/color/48/power-bi.png"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/OpenAI_Logo.svg/512px-OpenAI_Logo.svg.png" alt="OpenAI Logo" width="60" style="background-color:white; padding:6px; border-radius:50%; box-shadow:0 0 10px #6C63FF;"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/OpenAI_Logo.svg/512px-OpenAI_Logo.svg.png" 
+     alt="OpenAI Logo" 
+     width="45" 
+     style="background-color:white; padding:6px; border-radius:50%; box-shadow:0 0 6px rgba(108,99,255,0.4);" />
 <img src="https://img.icons8.com/color/48/python--v1.png"/>
 <img src="https://img.icons8.com/color/48/mysql-logo.png"/>
 <img src="https://img.icons8.com/color/48/github--v1.png"/>
