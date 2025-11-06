@@ -20,7 +20,7 @@ Data enthusiast exploring real-world solutions through <b>Excel automation</b> a
 
 ## 👩‍💻 About Me <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/icon-code.gif" width="25"/>
 
-<img align="right" alt="Girl working on computer" width="300" src="https://iconscout.com/lottie-animation/girl-working-on-laptop-animation_4445871"/>
+<video loading="lazy" muted="muted" playsinline="" src="https://cdnl.iconscout.com/lottie/premium/thumb/girl-working-on-laptop-animation-gif-download-4445871.mp4" type="video/mp4" autoplay="autoplay" loop="loop"></video>
 
 I’m passionate about turning raw data into meaningful business insights.  
 With strong expertise in **Microsoft 365** and growing proficiency in modern data tools like **Power BI, SQL, and Python**,  
