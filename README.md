@@ -80,7 +80,7 @@ I’m committed to continuous learning and delivering data-driven solutions that
 <img src="https://img.icons8.com/color/48/github--v1.png"/>
 <img src="https://img.icons8.com/color/48/git.png"/>
 <img src="https://img.icons8.com/color/48/data-configuration.png" alt="Power Pivot" width="48" style="max-width:100%;" />
-<img src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="SQL Server" width="48" style="max-width:100%;" />
+<img src="https://github.com/Jyothi-Kuppili999/Jyothi-Kuppili999/blob/test/images.png" alt="SQL Server" width="48" style="max-width:100%;" />
 
 
 
