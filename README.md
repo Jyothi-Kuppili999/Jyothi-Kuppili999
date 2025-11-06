@@ -47,7 +47,7 @@ I’m committed to continuous learning and delivering data-driven solutions that
 
 ---
 
-## 💻 My Skills <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25"/>
+## 💻 My Skills 
 
 | Category | Tools |
 |-----------|--------|
@@ -98,7 +98,8 @@ I’m committed to continuous learning and delivering data-driven solutions that
 
 ---
 
-⭐ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> 
-<b>Thanks for visiting!</b>  
-<em>Feel free to check out my repositories and connect with me on LinkedIn.</em>
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=⭐+Thanks+for+visiting!;Feel+free+to+check+out+my+repositories;and+connect+with+me+on+LinkedIn+💼" alt="Typing SVG" />
+</h2>
+
 
