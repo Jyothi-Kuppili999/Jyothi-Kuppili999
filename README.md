@@ -80,8 +80,11 @@ I’m committed to continuous learning and delivering data-driven solutions that
 <img src="https://img.icons8.com/color/48/github--v1.png"/>
 <img src="https://img.icons8.com/color/48/git.png"/>
 <img src="https://img.icons8.com/color/48/data-configuration.png" alt="Power Pivot" width="48" style="max-width:100%;" />
-<img src="https://img.icons8.com/color/48/data-configuration.png" alt="Power Pivot" width="48" style="max-width:100%;" />
-<img src="https://img.icons8.com/color/48/sql.png" alt="SQL" width="48" style="max-width:100%;" />
+<img src="https://img.icons8.com/color/48/sql.png" 
+     alt="SQL" 
+     width="48" 
+     style="background-color:#4CAF50; padding:5px; border-radius:10px; box-shadow:0 0 6px rgba(76,175,80,0.5);" />
+
 
 
 </p>
