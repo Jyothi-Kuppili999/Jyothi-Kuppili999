@@ -76,8 +76,8 @@ I’m committed to continuous learning and delivering data-driven solutions that
 <img src="https://img.icons8.com/color/48/mysql-logo.png"/>
 <img src="https://img.icons8.com/color/48/github--v1.png"/>
 <img src="https://img.icons8.com/color/48/git.png"/>
-<img src="https://img.icons8.com/color/48/microsoft-power-query.png" alt="Power Query" width="48" style="max-width:100%;" />
-<img src="https://img.icons8.com/color/48/microsoft-power-pivot.png" alt="Power Pivot" width="48" style="max-width:100%;" />
+<img src="https://img.icons8.com/color/48/data-configuration.png" alt="Power Pivot" width="48" style="max-width:100%;" />
+
 
 
 </p>
