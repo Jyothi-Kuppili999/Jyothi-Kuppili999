@@ -1,3 +1,6 @@
+### Hi, I'm Jyothi Patnaik 🌼
+##### A curious mind uncovering stories hidden in data. With Excel, SQL, and Power BI, I bring clarity to real-world decisions.
+
 <!-- Typing SVG Header -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi%2C+Everyone!+👋;I'm+a+passionate+Data+Enthusiast;Actively+developing+skills+in;Excel+%7C+Power+BI+%7C+SQL+%7C+Python" alt="Typing SVG" />
@@ -5,7 +8,7 @@
 </h1>
 
 <p align="center">
-Data enthusiast exploring real-world solutions through <b>Excel automation</b> and <b>BI tools</b>.
+Data enthusiast exploring real-world solutions through <b>Excel </b>,<b>SQL </b> and <b>BI tools</b>.
 </p>
 
 ---
@@ -27,7 +30,7 @@ Data enthusiast exploring real-world solutions through <b>Excel automation</b> a
 
 
 I’m passionate about turning raw data into meaningful business insights.  
-With strong expertise in **Microsoft 365** and growing proficiency in modern data tools like **Power BI, SQL, and Python**,  
+With strong expertise in **Microsoft EXCEL** and growing proficiency in modern data tools like **Power BI, SQL, and Python**,  
 I focus on optimizing reports, automating workflows, and driving smarter business decisions.  
 
 I’m committed to continuous learning and delivering data-driven solutions that create real business impact.
@@ -48,10 +51,10 @@ I’m committed to continuous learning and delivering data-driven solutions that
 
 | Category | Tools |
 |-----------|--------|
-| **Microsoft Suite** | Microsoft 365, Word, Excel, Power Query, PowerPoint |
+| **Microsoft Suite** | Microsoft Word, Excel, Power Query, PowerPoint, Power Pivot |
 | **Data Tools** | Power BI, SQL, MySQL, Google Sheets |
 | **Programming** | Python |
-| **Design & Visualization** | Canva, Data Visualization, Business Insights |
+| **Design & Visualization** | Data Visualization, Business Insights |
 | **Version Control** | Git, GitHub |
 | **Other Skills** | Data Cleaning & Transformation |
 
@@ -67,9 +70,7 @@ I’m committed to continuous learning and delivering data-driven solutions that
 <img src="https://img.icons8.com/color/48/mysql-logo.png"/>
 <img src="https://img.icons8.com/color/48/github--v1.png"/>
 <img src="https://img.icons8.com/color/48/git.png"/>
-<img src="https://img.icons8.com/color/48/canva.png"/>
-<img src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
-<img src="https://img.icons8.com/color/48/openai-logo.png"/>
+<img src="https://logos-world.net/wp-content/uploads/2021/10/OpenAI-Logo.png" alt="OpenAI Logo" width="100" />
 </p>
 
 ---
@@ -77,9 +78,9 @@ I’m committed to continuous learning and delivering data-driven solutions that
 ## 📬 Connect with Me <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/icon-contact.gif" width="25"/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-URL" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/jyothi-patnaik-k-310551226" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Jyothi-Kuppili999" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:jyothipatnaik963@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
@@ -97,4 +98,7 @@ I’m committed to continuous learning and delivering data-driven solutions that
 
 ---
 
-⭐ *Thanks for visiting! Feel free to check out my repositories and connect with me on LinkedIn.*
+⭐ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> 
+<b>Thanks for visiting!</b>  
+<em>Feel free to check out my repositories and connect with me on LinkedIn.</em>
+
